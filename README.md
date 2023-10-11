@@ -1,4 +1,4 @@
-![banner_purchase_propensity](https://github.com/lorainemnrc/predict-purchase-propensity/assets/23328647/ede5eb16-d905-4dd0-af1d-b3b6abdd9db2)
+![banner.png]
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
@@ -12,8 +12,10 @@
 
 **NOAA Global Historical Climatology Network Daily (GHCN-D)**
 
-<p align="justify"> &emsp; The NOAA Global Historical Climatology Network Daily (GHCN-D) dataset is a comprehensive collection of daily climate observations from around the world. It provides valuable historical climate data, including temperature, precipitation, wind speed, and other meteorological variables. The dataset is widely used for climate research, monitoring climate trends, and understanding the impact of climate change.
+<p align="justify"> &emsp;
+ The NOAA Global Historical Climatology Network Daily (GHCN-D) dataset is a comprehensive collection of daily climate observations from around the world. It provides valuable historical climate data, including temperature, precipitation, wind speed, and other meteorological variables. The dataset is widely used for climate research, monitoring climate trends, and understanding the impact of climate change.
 
+<p align="justify"> &emsp;
  The GHCN-D dataset encompasses observations from thousands of weather stations, spanning over a century of data. It contains measurements from both land-based stations and buoys, offering a global perspective on climate patterns. The dataset undergoes rigorous quality control procedures to ensure accuracy and reliability, making it a trusted resource for climate scientists and researchers worldwide.
 </p>
 
