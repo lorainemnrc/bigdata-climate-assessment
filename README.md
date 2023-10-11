@@ -1,4 +1,4 @@
-![banner.png]
+![banner](https://github.com/lorainemnrc/bigdata-climate-assessment/assets/23328647/1bc760f2-e502-4927-a1e8-b04d6f49c112)
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
