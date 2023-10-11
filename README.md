@@ -74,36 +74,36 @@ Link: https://github.com/awslabs/open-data-docs/tree/main/docs/noaa/noaa-ghcn
 
 <h1 style="color: #1048CB"><b>Highlights</b></h1>
 
-<p align="justify"> &emsp;<span style="color:#f26419; font-size:18px"><i>Global Temporal Trends</i></span>
+**Global Temporal Trends** 
 
-**Temperature variations over time** 
+<span style="color:#f26419; font-size:18px"><i>Temperature variations over time</i></span>
 
 - Our analysis revealed significant variations in temperature over the years, with the highest variation recorded in 2012 and 2010. These variations have implications for climate change, as increased frequency and intensity of extreme weather events can disrupt ecosystems and pose risks to human health and infrastructure.
 
-**Precipitation variations over time**
+<span style="color:#f26419; font-size:18px"><i>Precipitation variations over time</i></span>
 
 - We observed notable variations in precipitation over the years, with the highest variation recorded in 2015 and 2017. These deviations from usual precipitation patterns suggest unstable weather events related to rainfall, which can have profound impacts on ecosystems, agriculture, water resources, and human societies.
 
 </br>
 
-<span style="color:#f26419; font-size:18px"><i>Regional Trends</i></span>
+**Regional Trends** 
 
-**Temperature variations across countries**
+<span style="color:#f26419; font-size:18px"><i>Temperature variations across countries</i></span>
 
 - We found that regions in the United States, Afghanistan, France, Iraq, and Sudan experienced the greatest variations in temperature. These variations can be attributed to a combination of natural climate variability and human-induced climate change. Understanding these temperature variations is crucial for addressing the impacts on agriculture, water resources, and energy demands in these regions.
 
-**Precipitation variations across countries**
+<span style="color:#f26419; font-size:18px"><i>Precipitation variations across countries</i></span>
 
 - Our analysis revealed that regions in Sierra Leone, Guinea-Bissau, Burma (Myanmar), France, and Liberia exhibited the greatest variations in precipitation. Human activities, such as deforestation and greenhouse gas emissions, may have contributed to these alterations in precipitation patterns. The observed variations can lead to increased risks of flooding, landslides, water scarcity, and reduced crop yields.
 
 </br>
 
-<span style="color:#f26419; font-size:18px"><i>Climate Change Vulnerability</i></span>
+**Climate Change Vulnerability**
 
-**Factors contributing to vulnerability**
+<span style="color:#f26419; font-size:18px"><i>Factors contributing to vulnerability</i></span>
 
 The vulnerability of countries such as Iran, Sudan, Kazakhstan, Armenia, and Mauritania to climate change can be attributed to their geographical locations, which expose them to specific climate risks and hazards. These include droughts, heat waves, water scarcity, desertification, and sea-level rise.
 
-**Implications for vulnerable countries**
+<span style="color:#f26419; font-size:18px"><i>Implications for vulnerable countries</i></span>
 
 The impacts of climate change in these vulnerable countries are diverse, ranging from agricultural challenges and water resource management to public health risks and ecological stress. Addressing their vulnerability requires targeted adaptation strategies and international support.</p>
